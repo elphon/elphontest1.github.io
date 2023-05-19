@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "elohon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "el."
+  bio              : "저의 블로그에 오신 것을  **환영합니다.** "
+  location         : "대한민국"
   email            : "bane062422@gmail.com"
   links:
     - label: "Email"
